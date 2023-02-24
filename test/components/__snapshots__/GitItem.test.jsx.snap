@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitItem unit test should match de snatshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="one punch man"
+      src="https://media3.giphy.com/media/VXJWhaO7afRe/giphy.gif?cid=0628090eapy3zmtf83ya95eb6gy63upxucya2zh3po1myec2&rid=giphy.gif&ct=g"
+    />
+    <p>
+      one punch man
+    </p>
+  </div>
+</div>
+`;
